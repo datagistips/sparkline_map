@@ -65,5 +65,5 @@ We use this expression for the line geometry :
 Also, the labels are positioned using the same kind of expression.
 
 ## Links
-[See my blog post to get an explanation of the expression code](https://datagistips.hypotheses.org/488)
+[See my blog post for an explanation of the expression code](https://datagistips.hypotheses.org/488)
 
