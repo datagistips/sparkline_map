@@ -5,10 +5,14 @@
 ## Steps
 [Download QGIS](https://www.qgis.org/fr/site/forusers/download.html)
 
+I used version `3.12`
+
 Open project `sparkline_map.qgz`
 
 You'll have this :
 ![](images/qgis.png)
+
+That's it ! Now, play with styling, parameters
 
 ## Data
 - [French Boundaries from IGN](https://www.data.gouv.fr/fr/datasets/admin-express/)
